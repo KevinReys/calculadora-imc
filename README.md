@@ -21,4 +21,4 @@ Este é um projeto simples de uma calculadora de Índice de Massa Corporal (IMC)
 
 
 ## Autor
-[Kevin Reys]
+Esta calculadora foi desenvolvida por Kevin Reys
